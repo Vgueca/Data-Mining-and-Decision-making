@@ -1,20 +1,9 @@
-# Data-Mining-and-Decision-making
+# Gesture Recognition Proyect
+
+Submitted proyect for Data Mining and Decision Making course from Catholic University of Louvain.
+
+The techniques and steps followed along the development of the proyect are explain in the report as well as the results obtained. We advice to consult it before checking the code.
 
 
-ALREADY DONE:
-  Preprocessing. 
-  
-TO-DO:
-  - Baseline methods :  
-      - Edit-distance (Mathias)
-      - Dynamic time warping (Simon)
-  
-  - More state-of-the art methods:
-        -SVM (Valentin)
-        
-  
-  - Validation (together)
-      - user-independent
-      - user-dependent
-  
-  - Report (together)
+## Contact
+In order to contact with the developers of the proyect you might send an email to  [jvgueca@gmail.com](mailto:jvgueca@gmail.com).
