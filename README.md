@@ -2,7 +2,7 @@
 
 Submitted proyect for Data Mining and Decision Making course from Catholic University of Louvain.
 
-The techniques and steps followed along the development of the proyect are explain in the report as well as the results obtained. We advice to consult it before checking the code.
+The techniques and steps followed along the development of the proyect are explained in the report as well as the results obtained. We advice to consult it before checking the code.
 
 
 ## Contact
